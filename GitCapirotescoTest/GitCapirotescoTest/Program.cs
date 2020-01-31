@@ -10,7 +10,7 @@ namespace GitCapirotescoTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("O curso é MUITO BRABO!!!!!!");
+            Console.WriteLine("O CURSO É MUITO BRABO!");
         }
     }
 }
